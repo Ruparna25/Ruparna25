@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ruparna25/Ruparna25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 Learning Deep Learning and NLP.
@@ -10,3 +7,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 
 ### You can find me on
+![link](linkedin.com/in/ruparna-saha)
